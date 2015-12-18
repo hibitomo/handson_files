@@ -1,3 +1,3 @@
 # handson_files
 
-See https://github.com/lagopus/hanson .
+See https://github.com/lagopus/handson .

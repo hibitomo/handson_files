@@ -1,2 +1,3 @@
 # handson_files
-写経辛い
+
+See https://github.com/hibitomo/handson_files .
